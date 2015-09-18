@@ -8,22 +8,22 @@
   ],
   "env": {
     "api_key": {
-      "description": "Your Twitter consumer key goes here"
+      "description": "Your Twitter consumer key."
     },
     "api_secret": {
-      "description": "Your Twitter consumer secret key goes here"
+      "description": "Your Twitter consumer secret key."
     },
     "access_token": {
-      "description": "Your Twitter access token goes here"
+      "description": "Your Twitter access token."
     },
     "access_token_secret": {
-      "description": "Your Twitter access token secret goes here"
+      "description": "Your Twitter access token secret."
     },
     "petharbor_shelter_id": {
-      "description": "The id of the pet harbpr shelter"
+      "description": "The id of the pet harbor shelter."
     },
     "petharbor_pet_types": {
-      "description": "The types of pets to search for ('dog', 'cat', or 'others', separated by spaces)",
+      "description": "The types of pets to search for ('dog', 'cat', and/or 'others', separated by spaces)",
       "value": "dog cat others"
     },
     "pet_datasource": {
